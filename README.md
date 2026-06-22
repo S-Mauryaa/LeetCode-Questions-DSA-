@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0054-spiral-matrix) |
+| [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
@@ -20,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Binary Search
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
