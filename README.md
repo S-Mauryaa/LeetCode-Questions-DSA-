@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0054-spiral-matrix) |
 | [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
