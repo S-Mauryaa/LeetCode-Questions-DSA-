@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0069-sqrtx) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0704-binary-search) |
 | [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
