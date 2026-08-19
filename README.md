@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
