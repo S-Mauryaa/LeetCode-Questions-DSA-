@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0054-spiral-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0977-squares-of-a-sorted-array) |
