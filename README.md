@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
