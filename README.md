@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
