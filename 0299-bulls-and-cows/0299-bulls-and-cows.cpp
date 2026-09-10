@@ -1,26 +1,30 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        int bulls = 0;
-        int cows = 0;
+        int bulls = 0, cows = 0;
+        int count[10] = {};
 
-        vector<int> secretCount(10, 0);
-        vector<int> guessCount(10, 0);
+        for (int i = 0; i < secret.size(); i++) {
+            int s = secret[i] - '0';
+            int g = guess[i] - '0';
 
-        // Step 1: Find bulls
-        for (int i = 0; i < secret.length(); i++) {
-            if (secret[i] == guess[i]) {
+            if (s == g) {
                 bulls++;
-            } 
-            else {
-                secretCount[secret[i] - '0']++;
-                guessCount[guess[i] - '0']++;
             }
-        }
+            else {
+                // If this guess digit has appeared in secret's
+                // unmatched part, it forms a cow.
+                if (count[g] > 0)
+                    cows++;
 
-        // Step 2: Find cows
-        for (int digit = 0; digit <= 9; digit++) {
-            cows += min(secretCount[digit], guessCount[digit]);
+                // If this secret digit has appeared in guess's
+                // unmatched part, it forms a cow.
+                if (count[s] < 0)
+                    cows++;
+
+                count[s]++;
+                count[g]--;
+            }
         }
 
         return to_string(bulls) + "A" + to_string(cows) + "B";
