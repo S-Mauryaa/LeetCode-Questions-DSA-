@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0074-search-a-2d-matrix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 ## Counting
 |  |
