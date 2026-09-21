@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1929-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
+| [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
