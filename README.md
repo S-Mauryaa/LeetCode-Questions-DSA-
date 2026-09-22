@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
+| [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
