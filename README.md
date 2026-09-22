@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3870-count-commas-in-range) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Bit Manipulation
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
