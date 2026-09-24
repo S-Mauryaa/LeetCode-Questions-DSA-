@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
+| [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
+| [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bracket Sequences
