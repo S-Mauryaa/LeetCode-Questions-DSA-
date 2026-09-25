@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0217-contains-duplicate) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
