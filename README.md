@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 ## Trie
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
