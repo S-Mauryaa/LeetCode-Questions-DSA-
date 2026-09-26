@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1929-concatenation-of-array) |
 | [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
