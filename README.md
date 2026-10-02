@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
