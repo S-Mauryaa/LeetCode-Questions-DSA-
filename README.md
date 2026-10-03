@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0087-scramble-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0344-reverse-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
