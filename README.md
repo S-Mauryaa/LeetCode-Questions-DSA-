@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 ## Sliding Window
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
