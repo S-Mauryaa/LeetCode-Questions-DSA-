@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2574-left-and-right-sum-differences](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
