@@ -9,6 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        // we are using two pointers
         ListNode* slow=head;
         ListNode* fast=head;
     while(fast!=NULL && fast->next!=NULL){
