@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
