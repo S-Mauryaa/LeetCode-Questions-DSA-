@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
