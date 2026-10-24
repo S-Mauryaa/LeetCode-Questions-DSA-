@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3525-find-x-value-of-array-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2716-minimize-string-length](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2716-minimize-string-length) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3863-minimum-operations-to-sort-a-string) |
