@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0242-valid-anagram) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0455-assign-cookies) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
