@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* a, ListNode* b) {
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         // SC = O(m+n)
         // ListNode* tempA=list1;
         // ListNode* tempB=list2;
@@ -31,20 +31,20 @@ public:
         // Better Method with SC=O(1)
         ListNode* c=new ListNode(100);
         ListNode* temp=c;
-        while(a!=NULL && b!=NULL){
-            if(a->val <=b->val){
-                temp->next=a;
-                a=a->next;
+        while(list1!=NULL && list2!=NULL){
+            if(list1->val <=list2->val){
+                temp->next=list1;
+                list1=list1->next;
                 temp=temp->next;
             }
             else{
-                temp->next=b;
-                b=b->next;
+                temp->next=list2;
+                list2=list2->next;
                 temp=temp->next;
             }
         }
-        if(a==NULL)temp->next=b;
-        else temp->next=a;
+        if(list1==NULL)temp->next=list2;
+        else temp->next=list1;
         return c->next;
     }
 };
