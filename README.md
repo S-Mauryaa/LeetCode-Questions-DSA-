@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0141-linked-list-cycle) |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
