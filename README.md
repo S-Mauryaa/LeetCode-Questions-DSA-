@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2326-spiral-matrix-iv](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1929-concatenation-of-array) |
+| [2326-spiral-matrix-iv](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2326-spiral-matrix-iv) |
 ## Memoization
 |  |
 | ------- |
