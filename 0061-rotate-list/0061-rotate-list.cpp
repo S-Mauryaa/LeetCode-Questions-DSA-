@@ -1,42 +1,26 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        // Empty list or only one node
-        if (head == nullptr || head->next == nullptr)
-            return head;
-
-        // Find length and last node
-        int len = 1;
-        ListNode* tail = head;
-
-        while (tail->next != nullptr) {
-            tail = tail->next;
-            len++;
+        // Finding the length of the list
+        if(head==NULL || head->next==NULL) return head;
+     int n=0; // n is the length
+     ListNode* temp=head;
+     ListNode* tail=NULL;
+        while(temp!=NULL){
+            if(temp->next==NULL) tail=temp;
+                temp=temp->next;
+                n++;   
         }
-
-        // Avoid unnecessary rotations
-        k = k % len;
-
-        if (k == 0)
-            return head;
-
-        // Make the list circular
-        tail->next = head;
-
-        // Find the new tail
-        int steps = len - k;
-        ListNode* newTail = head;
-
-        for (int i = 1; i < steps; i++) {
-            newTail = newTail->next;
+        k=k%n;
+        if(k==0) return head;
+        // I have to place temp at (n-k)th position
+        temp=head;
+        for(int i =1;i<n-k;i++){
+            temp=temp->next;
         }
-
-        // New head is after new tail
-        ListNode* newHead = newTail->next;
-
-        // Break the circle
-        newTail->next = nullptr;
-
-        return newHead;
+        tail->next=head;
+        head=temp->next;
+        temp->next=NULL;
+        return head;
     }
 };
