@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/S-Mauryaa/LeetCode-Questions-DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bracket Sequences
 |  |
